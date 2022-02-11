@@ -1,0 +1,36 @@
+*{
+    color:orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 200px;
+    border-radius: 50px;
+}
+div{
+    background-color: skyblue;
+}
+h1{
+    color:red;
+    font: size 30px; 
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+}
+h2{
+    color:purple;
+}
+h3{
+    color:brown;
+}
+p{
+    color:green ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.suplentes {
+    color: blue;
+}
+
+.presidente{
+    width: 300px;
+    border-width: 5px;
+    border-color: aqua;
+    border-style:solid;
+}
